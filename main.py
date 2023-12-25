@@ -57,6 +57,11 @@ def create_deck():
         CreatureCard("Unicorn", [("Horn Charge", 6), ("Healing Light", 4)], "Light"),
         CreatureCard("Wizard", [("Magic Missile", 5), ("Arcane Blast", 4)], "Arcane"),
         CreatureCard("Werewolf", [("Lunar Strike", 7), ("Feral Claw", 6)], "Dark"),
+        CreatureCard("Poltergeist", [("Eerie Wail", 6), ("Haunting Presence", 5)], "Spirit"),
+        CreatureCard("Kitsune", [("Foxfire", 7), ("Illusion", 5)], "Mystic"),
+        CreatureCard("Kraken", [("Tsunami", 8), ("Ink Cloud", 6)], "Sea"),
+        CreatureCard("Zombie", [("Undead Bite", 6), ("Grave Stench", 5)], "Undead"),
+        
     ]
     enhancements = [
         EnhancementCard("Mystic Forest", "+2 Defense to all creatures"),

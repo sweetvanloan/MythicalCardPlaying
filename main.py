@@ -61,6 +61,14 @@ def create_deck():
         CreatureCard("Kitsune", [("Foxfire", 7), ("Illusion", 5)], "Mystic"),
         CreatureCard("Kraken", [("Tsunami", 8), ("Ink Cloud", 6)], "Sea"),
         CreatureCard("Zombie", [("Undead Bite", 6), ("Grave Stench", 5)], "Undead"),
+         CreatureCard("Siren", [("Melodic Charm", 7), ("Drowning Song", 6)], "Water"),
+        CreatureCard("Pegasus", [("Sky Strike", 7), ("Gale Wind", 6)], "Air"),
+        CreatureCard("Dragon", [("Blazing Fury", 9), ("Wing Gust", 6)], "Fire"),
+        CreatureCard("Gargoyle", [("Stone Gaze", 6), ("Granite Slam", 7)], "Earth"),
+        CreatureCard("Archangel", [("Divine Light", 8), ("Winged Fury", 7)], "Light"),
+        CreatureCard("Goblin", [("Sneak Attack", 5), ("Nimble Strike", 6)], "Earth"),
+        CreatureCard("Gollum", [("Cunning Ambush", 7), ("Twisted Pummel", 6)], "Dark"),
+       
         
     ]
     enhancements = [

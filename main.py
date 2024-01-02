@@ -67,7 +67,7 @@ def create_deck():
         CreatureCard("Gargoyle", [("Stone Gaze", 6), ("Granite Slam", 7)], "Earth"),
         CreatureCard("Archangel", [("Divine Light", 8), ("Winged Fury", 7)], "Light"),
         CreatureCard("Goblin", [("Sneak Attack", 5), ("Nimble Strike", 6)], "Earth"),
-        CreatureCard("Gollum", [("Cunning Ambush", 7), ("Twisted Pummel", 6)], "Dark"),
+        CreatureCard("Gollum", [("Cunning Ambush", 7), ("Twisted Pummel", 6)], "Dark"), 
        
         
     ]

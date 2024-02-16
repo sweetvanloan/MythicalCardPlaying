@@ -1,4 +1,4 @@
-import random
+import random 
 
 class CreatureCard:
     def __init__(self, name, attacks, type):
